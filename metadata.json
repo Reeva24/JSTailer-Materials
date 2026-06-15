@@ -1,0 +1,6 @@
+{
+  "name": "JS Tailer Materials",
+  "description": "Inventory, Shopping, Zoom Tool, and AI Estimator for luxury and tailor materials like Gota, laces, ribbons, and threads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
